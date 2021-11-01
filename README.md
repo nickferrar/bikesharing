@@ -34,5 +34,5 @@ For the full storyboard: [Storyboard](https://public.tableau.com/app/profile/nic
 
 The results show that the bikesharing program is mostly used for commuting and weekend biking trips. There is a gender gap where males are more likely to use the program than 
 females but when you look at slide 6, it shows that more men are subscribers. This suggests that the program can be made more popular with a marketing campaign to enroll more 
-women as subscribers and increasing brand loyalty. Two additional visualizations that would help are : Age vs Trip Duration and Trips by Age(weekday per hour) in order to get a 
+women as subscribers and increasing brand loyalty. Two additional visualizations that would help are: Age vs Trip Duration and Trips by Age(weekday per hour) in order to get a 
 better sense of the demographics that use the program and match it to the demographics in Des Moines to further explore the viability of this program in a smaller city.
